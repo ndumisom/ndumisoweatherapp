@@ -1,0 +1,68 @@
+.result{
+    position: fixed;
+    z-index: 100;
+    top: 15%;
+    left: 44%;
+    margin: -100px 0 0 -100px;
+    width: 360px;
+    height: 460px;
+}
+.submit{color:black;}
+.search{text-align: center;}
+.main{text-align: center;color: white; }
+.average-high-temperature,.city{font-family: fantasy;
+font-size: 30px;}
+.country{font-family: fantasy;}
+.temp_min,.temp_max, .t{font-weight: 700;
+font-size: 20px;}
+.temp-high{font-weight: bold;}
+.temp-low{font-weight: bold;}
+
+table {
+    width: 216% !important;
+    margin-bottom: 20px;
+}
+table {
+     max-width: 300% !important;
+    background-color: transparent;
+}
+
+/*.result {
+    position: fixed;
+    z-index: 100;
+    top: 50%;
+    left: 36%;
+    margin: -100px 0 0 -100px;
+    width: 360px;
+    height: 460px;
+}*/
+
+.td-class{
+    padding-right: 16% !important;
+    padding-bottom: 0%!important;
+}
+
+.table-body{
+    max-width: 300%!important;
+    width: 200%!important;
+    position: relative;
+    left: -13%;
+    height: 7%;
+float:left;
+overflow-y: auto;
+height: 500px;
+}
+.average-high-temperature{
+position: relative;
+    left: -10%;
+}
+
+
+
+
+
+
+
+
+
+
