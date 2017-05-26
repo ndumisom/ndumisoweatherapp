@@ -1,2 +1,2 @@
-Ndumiso weather api showing live data
+weather api showing live data
 ===========
