@@ -46,18 +46,69 @@ table {
     max-width: 300%!important;
     width: 200%!important;
     position: relative;
-    left: -13%;
+    left: -153%;
     height: 7%;
-float:left;
-overflow-y: auto;
-height: 500px;
+    float: left;
+    overflow-y: auto;
+    height: 500px;
 }
 .average-high-temperature{
 position: relative;
     left: -10%;
 }
 
+tbody{
 
+    position: fixed;
+    top: 135px;
+    overflow-y: auto;
+    height: 500px;
+     width: 200%!important;
+}
+
+.missing-data-set{
+    position: relative;
+    left: -153%;
+    height: 7%;
+    float: left;
+    overflow-y: auto;
+    height: 500px;
+    color: #fff;
+
+    color: #fff;padding-right: 0%;width: 50%;
+    font-size: 20px;
+
+}
+
+.dictinary{
+    position: relative;
+    left: -153%;
+    height: 7%;
+    float: left;
+    overflow-y: auto;
+    height: 500px;
+    color: #fff;
+
+    color: #fff;padding-right: 0%;width: 50%;
+    font-size: 20px;
+
+}
+
+.overall-min-max{
+    position: absolute;
+    left: -68%;
+    height: 7%;
+    float: left;
+    overflow-y: auto;
+    height: 500px;
+    color: #fff;
+    color: #fff;
+    padding-right: 0%;
+    width: 46%;
+    font-size: 20px;
+    top: 19%!important;
+
+}
 
 
 
